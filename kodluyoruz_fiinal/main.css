@@ -1,0 +1,99 @@
+html{
+    font-size: 22px;
+}
+body {
+    background-color: #F5F5F5;
+    color: rgb(7, 0, 0);
+}
+
+#mainblock{
+    border-radius: 2%;
+    background-color: #ffff;
+    border: 4px solid #f60000;
+    width: 60%;
+    height:70%;
+    position:absolute;
+    left: 20%;
+    right: 20%;
+    top: 15%;
+    bottom: 15%;
+}
+.section1{
+   border: 1px solid #ffffff;
+    width: 80%;
+    height:500px;
+    margin:1% 0% 10% 10%;
+}
+
+.logo-box{
+    width: 90%;
+    height:30%;s
+    float: left;
+    margin-left: 4%;
+    margin-top: -1%;
+   /* border: 1px solid #ff1327;*/
+  }
+  
+  .cover-logo-img{
+    object-fit: cover;
+    margin-left: 35%;
+    width: 30%;
+    height: 100%;
+    border-radius: 1%;
+  }
+  
+  .section2{
+    /*border: 1px solid #3113da;*/
+    width: 90%;
+    height:100px;
+    margin:9% 0% 10% 4%;
+    background-color:#dddddd;
+}
+
+.section2 p{  font-family: "Poppins", sans-serif; text-align: center;color:rgb(97, 97, 97);font-size: 25px;font-weight: 300;}
+  
+.send-box{
+    width: 13%;
+    height: 30%;
+    margin-left: 35%;
+    margin-top: -20%;
+    background-color:#F5F5F5;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    cursor: pointer;
+    /*border: 1px solid #464646;*/
+}
+
+.send-boxx{
+    width: 18%;
+    height: 30%;
+    margin-left: -1%;
+    margin-top: -20%;
+    margin-bottom: 10%;
+    background-color:#F5F5F5;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    cursor: pointer;
+    /*border: 1px solid #464646;*/
+}
+
+.section3{
+   /* border: 1px solid #e74e08;*/
+    width: 90%;
+    height:150px;
+    margin-top: -9%;
+    margin-left: 4%;
+}
+
+.kutu{
+      /*  border: 1px solid #ff00bb;*/
+        width: 32%;
+        height:150px;
+        float: left;
+        margin-top: 0.1%;
+        margin-left: 1%;
+        text-align: center;
+}
+
+
+p{  font-family: "Poppins", sans-serif; text-align: center;color:rgb(0, 0, 0);font-size: 25px;font-weight: 300;}
